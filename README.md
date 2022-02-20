@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Samim
-- 👀 My favorite programming languages are (Swift and Python)
+- 👀 My favorite programming languages are (Swift, Kotlin and Python)
 - 🌱 I’m currently working on an iOS app with Swift. 
 - 💞️ I’m looking to collaborate on any iOS project (SWift only)
 - 📫 How to reach me @developerminds@gmail.com
