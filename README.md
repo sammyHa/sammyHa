@@ -7,7 +7,7 @@
 - 💡 Hands-on with labs from **HackTheBox**, **TryHackMe**, and custom Active Directory environments  
 - 🌐 Always learning about network protocols, exploitation techniques, and detection evasion  
 - 🤝 Open to collaborating on **security research**, **CTF writeups**, or lab-building projects  
-- 📫 Reach me at **samimhakimi25@gmail.com**
+- 📫 Reach me at **pentester@deltacode.io**
 
 <!---
 sammyHa/sammyHa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
