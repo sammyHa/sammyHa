@@ -1,8 +1,13 @@
-- 👋 Hi, I’m Samim
-- 👀 My favorite programming languages are (Swift, Kotlin and Python)
-- 🌱 I’m currently working on an iOS app with Swift. 
-- 💞️ I’m looking to collaborate on any iOS project (SWift only)
-- 📫 How to reach me @developerminds@gmail.com
+# 👋 Hi, I’m Samim
+
+- 🔐 Passionate about **network security**, **penetration testing**, and ethical hacking  
+- 🧰 Skilled in tools like **Nmap**, **Burp Suite**, **Metasploit**, and **Wireshark**  
+- 🖥️ Comfortable with **Kali Linux**, **Windows Server**, and scripting with **Python**  
+- 🧠 Currently pursuing **OSCP** and preparing for **CompTIA Network+**  
+- 💡 Hands-on with labs from **HackTheBox**, **TryHackMe**, and custom Active Directory environments  
+- 🌐 Always learning about network protocols, exploitation techniques, and detection evasion  
+- 🤝 Open to collaborating on **security research**, **CTF writeups**, or lab-building projects  
+- 📫 Reach me at **samimhakimi25@gmail.com**
 
 <!---
 sammyHa/sammyHa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
