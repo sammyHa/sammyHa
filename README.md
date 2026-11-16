@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Samim
 Detection Engineer & SOC Analyst in the making, I built an enterprise SOC at home to prove it.
 
-🛡️ I run DeltaCode a 7-VLAN enterprise security lab on Proxmox: Wazuh, Elastic Stack, TheHive/Cortex, Suricata + Zeek, Sysmon-instrumented endpoints, and Atomic Red Team for adversary emulation
+🛡️ I run DeltaCode a 7-VLAN enterprise security lab on Proxmox: Elastic Stack, TheHive/Cortex, Suricata + Zeek, Sysmon-instrumented endpoints, Caldera and Atomic Red Team for adversary emulation
 
 🔍 Daily hands-on with alert triage, detection engineering (Sigma + custom Wazuh rules mapped to MITRE ATT&CK), and full NIST 800-61 incident response where every lab incident gets a professional report
 
