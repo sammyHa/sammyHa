@@ -3,7 +3,7 @@ Detection Engineer & SOC Analyst in the making, I built an enterprise SOC at hom
 
 🛡️ I run DeltaCode a 7-VLAN enterprise security lab on Proxmox: Elastic Stack, TheHive/Cortex, Suricata + Zeek, Sysmon-instrumented endpoints, Caldera and Atomic Red Team for adversary emulation
 
-🔍 Daily hands-on with alert triage, detection engineering (Sigma + custom Wazuh rules mapped to MITRE ATT&CK), and full NIST 800-61 incident response where every lab incident gets a professional report
+🔍 Daily hands-on with alert triage, detection engineering (Sigma rules to elastic query and mapped to MITRE ATT&CK), and full NIST 800-61 incident response where every lab incident gets a professional report
 
 ⚙️ Built a Detection-as-Code pipeline: Sigma rules -> GitHub Actions CI -> automated testing against live attack emulation -> ATT&CK coverage reports
 
